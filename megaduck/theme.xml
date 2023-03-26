@@ -1,0 +1,25 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Mega Duck WG-108</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Welback Holdings</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Mega Duck WG-108</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1993 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>También conocida como la Cougar Boy, es una consola similar a la Nintendo Game Boy o la Watara Supervision</text>
+    </text>
+  </view>
+</theme>

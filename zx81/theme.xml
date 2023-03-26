@@ -1,26 +1,25 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>SINCLAIR ZX-81</text>
-  </text>
-</view>    
+      <text>SINCLAIR ZX-81</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>ZX-81</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
-    <size>0 0</size>
-  </text>    
-  <text name="shortdescription" extra="true">
-   <text>1980  ·  8-bit Computer</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sinclair</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>ZX-81</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1980 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>La ZX-81 fue notable en su época por ser muy barata. Los programas se leían y grababan en casetes de audio comunes</text>
+    </text>
+  </view>
 </theme>

@@ -1,26 +1,22 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Residual VM</text>
-  </text>
-</view>    
+      <text>ResidualVM</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Residual VM</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
-    <size>0 0</size>
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>CROSS PLATFORM COMPUTER</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>ResidualVM</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2012 · Motor de juegos 3D</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>ResidualVM es un intérprete de videojuegos 3D que permite correr juegos basados en LucasArts. En 2020 se fusionó con ScummVM</text>
+    </text>
+  </view>
 </theme>

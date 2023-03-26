@@ -1,0 +1,22 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Easy RPG</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>EASY-RPG</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2019 · Motor RPG</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Motor gratuito y open source para juegos de roles (RPG), compatible con RPG maker 2000 y 2003</text>
+    </text>
+  </view>
+</theme>

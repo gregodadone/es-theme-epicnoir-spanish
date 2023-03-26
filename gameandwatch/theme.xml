@@ -1,26 +1,25 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Game & Watch</text>
-  </text>
-</view>    
+      <text>Game & Watch</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Game & Watch</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
-    <size>0 0</size>
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>Handheld Electronic Games</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Nintendo</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Game & Watch</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1981 - 1991 · Consola portatil 4-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Serie de consolas portátiles de juego único, lanzadas por Nintendo entre 1981 y 1991. Incluían pantalla LCD, reloj y alarma</text>
+    </text>
+  </view>
 </theme>

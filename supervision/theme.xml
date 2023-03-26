@@ -1,0 +1,25 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Supervision</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Watara</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Supervision</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1992 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Consola portatil con pantalla monocromo, pensada para ser un competidor de bajo costo de la Nintendo Game Boy. Tenía un cable que permitía conectar a una TV</text>
+    </text>
+  </view>
+</theme>

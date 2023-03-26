@@ -1,0 +1,22 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Tools</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Tools</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Configuración del sistema</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Colección de diferentes utilidades y herramientas para configurar el sistema</text>
+    </text>
+  </view>
+</theme>

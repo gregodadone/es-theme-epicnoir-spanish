@@ -1,0 +1,25 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Mega Drive Japan</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega (Japón)</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Mega Drive</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1988 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Juegos lanzados únicamente en Japón para la Sega Mega Drive</text>
+    </text>
+  </view>
+</theme>

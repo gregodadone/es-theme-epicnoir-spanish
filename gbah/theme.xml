@@ -1,0 +1,25 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>GBA Hacks</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Nintendo (Hacks y Homebrews)</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Game Boy Advanced</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2001 · Consola Portatil 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Juegos hackeados o creados por aficionados o empresas pero no licenciados por Nintendo</text>
+    </text>
+  </view>
+</theme>

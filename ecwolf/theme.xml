@@ -1,0 +1,22 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Wolfenstein</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Wolfenstein</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1992 · id Software</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>El juego transcurre durante la segunda guerra mundial. El jugador controla a un espía americano capturado, llamado B.J. Blazkowicz.</text>
+    </text>
+  </view>
+</theme>

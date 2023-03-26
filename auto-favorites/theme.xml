@@ -1,26 +1,25 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Favorites</text>
-  </text>
-</view>    
+      <text>Juegos Favoritos</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Favorites</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
-    <size>0 0</size>
-  </text>  
-  <text name="shortdescription" extra="true">
-   <text>All Consoles / Handhelds</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Access and quickly play your favorite games across the entire library</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Juegos</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Favoritos</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Todas las consolas y computadoras</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Los juegos favoritos de su colección</text>
+    </text>
+  </view>
 </theme>
