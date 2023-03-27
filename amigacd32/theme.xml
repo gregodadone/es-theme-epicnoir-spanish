@@ -9,6 +9,9 @@
   </view>
 
   <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore</text>
+    </text>
     <text name="sys_line2" extra="true">
       <text>Amiga CD32</text>
     </text>
@@ -16,7 +19,7 @@
       <text>1993 · Consola 32-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>La CD32 es parte de la familia de computadoras Amiga. Fue lanzada el 16 de Septiembre de 1993 y descontinuada después de sólo 8 meses</text>
+      <text>Primera videoconsola de la historia con CD y 32 bits. Fue lanzada el 16 de Septiembre de 1993 y descontinuada después de sólo 8 meses</text>
     </text>
   </view>
 </theme>

@@ -1,5 +1,5 @@
 <theme>
-<formatVersion>4</formatVersion>
+<formatVersion>7</formatVersion>
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Amiga</text>
+    <text>Commodore</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>1200</text>
+    <text>Amiga 1200</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.16</pos>
     <size>0 0</size>
 </text>   
   <text name="shortdescription" extra="true">
-   <text>1992  ·  32-bit Computer</text>
+   <text>1992  ·  Computadora 32-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The CD32 is part of a family of Amiga computers and other hardware. It uses CD-ROM as its storage medium. It was based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 personal computer.</text>
+   <text>Primera computadora de 32 bits de Commodore. Su chip gráfico permitía una paleta de 16.8 millones de colores. Ofrecía grandes posibilidades de expansión</text>
   </text>
  </view>
 </theme>

@@ -9,11 +9,8 @@
   </view>
   
   <view name="system">
-    <text name="sys_line1" extra="true">
-      <text>Atari</text>
-    </text>
     <text name="sys_line2" extra="true">
-      <text>5200</text>
+      <text>Atari 5200</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1982 · Consola 8-bit</text>

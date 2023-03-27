@@ -4,16 +4,16 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>COMMODORE 16</text>
+      <text>Commodore 16</text>
     </text>
   </view>
 
   <view name="system">
     <text name="sys_line2" extra="true">
-      <text>C16</text>
+      <text>Commodore 16</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>1984 · Computadora 16-bit</text>
+      <text>1984 · Computadora 8-bit</text>
     </text>
     <text name="longdescription" extra="true">
       <text>Computadora doméstica hecha por la Commodore International, pensada como computadora de gama baja para reemplazar a la VIC-20</text>
