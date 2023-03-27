@@ -1,27 +1,25 @@
 <theme>
-  <formatVersion>4</formatVersion>
+  <formatVersion>7</formatVersion>
   <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>mame-mame4all</text>
-  </text>
-  </view>    
-  
-  <view name="system">
-  <text name="sys_line2" extra="true">
-  <text>mame-mame4all</text>
-  <fontSize>0.18</fontSize>
-  <origin>0 0</origin>
-  <pos>0.12 0.130</pos>
-  <size>0 0</size>
-  </text>
-  <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  <text name="longdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  </view>
-  </theme>
 
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>MAME4ALL</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Multiple Arcade Machine Emulator</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>MAME4ALL</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1970 - 2010 · Máquinas Recreativas</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
+    </text>
+  </view>
+</theme>

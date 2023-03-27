@@ -1,27 +1,25 @@
 <theme>
-  <formatVersion>4</formatVersion>
+  <formatVersion>7</formatVersion>
   <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>megacdjp</text>
-  </text>
-  </view>    
-  
-  <view name="system">
-  <text name="sys_line2" extra="true">
-  <text>megacdjp</text>
-  <fontSize>0.18</fontSize>
-  <origin>0 0</origin>
-  <pos>0.12 0.130</pos>
-  <size>0 0</size>
-  </text>
-  <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  <text name="longdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  </view>
-  </theme>
 
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sega Mega-CD</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega (Japón)</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Mega-CD</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1991 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Juegos lanzados únicamente en Japón para la Sega Mega-CD</text>
+    </text>
+  </view>
+</theme>

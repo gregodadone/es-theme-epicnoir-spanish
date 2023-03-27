@@ -13,10 +13,10 @@
       <text>Doom</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>LZdoom · Motor Doom</text>
+      <text>2018 · Juego portado</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>LZDoom esun fork de estilo clásico de GZDoom con menos requerimientos de sistema</text>
+      <text>LZDoom es un fork de estilo clásico de GZDoom con menos requerimientos de sistema</text>
     </text>
   </view>
 </theme>

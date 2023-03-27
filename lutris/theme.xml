@@ -1,27 +1,26 @@
 <theme>
-  <formatVersion>4</formatVersion>
+  <formatVersion>7</formatVersion>
   <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>lutris</text>
-  </text>
-  </view>    
-  
-  <view name="system">
-  <text name="sys_line2" extra="true">
-  <text>lutris</text>
-  <fontSize>0.18</fontSize>
-  <origin>0 0</origin>
-  <pos>0.12 0.130</pos>
-  <size>0 0</size>
-  </text>
-  <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  <text name="longdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  </view>
-  </theme>
 
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Lutris</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Lutris</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
+      <pos>0.12 0.130</pos>
+      <size>0 0</size>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2010 · Gestor de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Lutris te permite acceder a todos los juegos de tus bibliotecas de tiendas digitales o juegos locales y mantenerlos de manera organizada</text>
+    </text>
+  </view>
+</theme>

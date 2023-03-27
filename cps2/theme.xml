@@ -4,22 +4,22 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>CAPCOM SYSTEM II</text>
+      <text>Capcom CPS-2</text>
     </text>
   </view>
 
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>CAPCOM PLAY</text>
+      <text>Capcom</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>SYSTEM II</text>
+      <text>CPS-2</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1993 · Placa Arcade 32-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Placa arcade que Capcom usó primero para correr Super Street Fighter II. Fue la sucesora de la Capcom Play System I (CPS-1)</text>
+      <text>Capcom Play System II (CPS-2) fue una placa arcade que Capcom usó primero para correr Super Street Fighter II. Fue la sucesora de CPS-1</text>
     </text>
   </view>
 </theme>

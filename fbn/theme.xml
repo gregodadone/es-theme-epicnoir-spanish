@@ -4,22 +4,19 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Final Burn Neo</text>
+      <text>FinalBurn Neo</text>
     </text>
   </view>
 
   <view name="system">
-    <text name="sys_line1" extra="true">
-      <text>Final</text>
-    </text>
     <text name="sys_line2" extra="true">
-      <text>BURN NEO</text>
+      <text>FinalBurn Neo</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>Emulador Arcade</text>
+      <text>2020 · Emulador Arcade</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
+      <text>Emulador de arcades, máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
     </text>
   </view>
 </theme>

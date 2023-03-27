@@ -4,7 +4,7 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>M.A.M.E.</text>
+      <text>MAME</text>
     </text>
   </view>
 
@@ -13,7 +13,7 @@
       <text>Multiple Arcade Machine Emulator</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>M.A.M.E.</text>
+      <text>MAME</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1970 - 2010 · Máquinas Recreativas</text>

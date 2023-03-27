@@ -4,22 +4,22 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>CAPCOM SYSTEM III</text>
+      <text>Capcom CPS-3</text>
     </text>
   </view>
 
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>CAPCOM PLAY</text>
+      <text>Capcom</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>SYSTEM III</text>
+      <text>CPS-3</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1996 · Placa Arcade 32-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>La última placa arcade de Capcom antes de migrar a Sega Naomi. A pesar de su potencia, sólo salieron 6 juegos para la misma, todos de lucha</text>
+      <text>La Capcom Play System III fue la última placa de Capcom antes de migrar a Sega Naomi. Sólo salieron 6 juegos para la misma, todos de lucha</text>
     </text>
   </view>
 </theme>

@@ -1,27 +1,26 @@
 <theme>
-  <formatVersion>4</formatVersion>
+  <formatVersion>7</formatVersion>
   <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>dragon32</text>
-  </text>
-  </view>    
-  
-  <view name="system">
-  <text name="sys_line2" extra="true">
-  <text>dragon32</text>
-  <fontSize>0.18</fontSize>
-  <origin>0 0</origin>
-  <pos>0.12 0.130</pos>
-  <size>0 0</size>
-  </text>
-  <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  <text name="longdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  </view>
-  </theme>
 
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Dragon 32</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Dragon 32</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
+      <pos>0.12 0.130</pos>
+      <size>0 0</size>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1982 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Computadora doméstica lanzada por Dragon Data en europa, muy similares a la CoCo TRS-80. Era inferior a la competencia por lo que resultó un fracaso</text>
+    </text>
+  </view>
+</theme>
