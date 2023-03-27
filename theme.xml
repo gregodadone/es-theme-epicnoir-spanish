@@ -1,8 +1,8 @@
 <!--
-Theme name:  Epic Noir
-Artwork by:  Nico La Rosa (Chicuelo) 
-Coding by:   Nick L (c64-dev)
-Website:     www.chicuelo.com.ar
+Theme name:  Epic Noir Spanish
+Artwork by:  Nico La Rosa (Chicuelo), Grego Dadone
+Coding by:   Nick L (c64-dev), Grego Dadone
+Website:     www.chicuelo.com.ar, www.gregodadone.com
 Fonts used:  Acre Medium & Bebas Neue Bold
 
 # Thanks and Credits
@@ -13,7 +13,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 -->
 
 <theme>
-<formatVersion>4</formatVersion>
+<formatVersion>7</formatVersion>
 
 <view name="system">
     <image name="background" extra="true">
