@@ -1,27 +1,33 @@
 <theme>
-  <formatVersion>4</formatVersion>
+  <formatVersion>7</formatVersion>
   <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>trs-80</text>
-  </text>
-  </view>    
-  
-  <view name="system">
-  <text name="sys_line2" extra="true">
-  <text>trs-80</text>
-  <fontSize>0.18</fontSize>
-  <origin>0 0</origin>
-  <pos>0.12 0.130</pos>
-  <size>0 0</size>
-  </text>
-  <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  <text name="longdescription" extra="true">
-  <text>Video Games System</text>
-  </text>
-  </view>
-  </theme>
 
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>TRS-80</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Radio Shack</text>
+      <fontSize>0.048</fontSize>
+      <origin>0 0</origin>
+      <pos>0.12 0.142</pos>
+      <size>0 0</size>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>TRS-80</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
+      <pos>0.12 0.130</pos>
+      <size>0 0</size>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1977 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>También conocida burlonamente como Trash-80. Fue la predecesora de la popular CoCo (TRS-80 Color Computer)</text>
+    </text>
+  </view>
+</theme>
