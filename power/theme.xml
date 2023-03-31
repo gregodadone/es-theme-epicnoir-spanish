@@ -14,6 +14,7 @@
   <view name="system">
     <text name="sys_line2" extra="true">
       <text>Apagado</text>
+      <pos>0.12 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
       <text>Menú de apagado</text>

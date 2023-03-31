@@ -11,6 +11,7 @@
   <view name="system">
     <text name="sys_line2" extra="true">
       <text>Atari 2600</text>
+      <pos>0.12 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
       <text>1977 · Consola 8-bit</text>
