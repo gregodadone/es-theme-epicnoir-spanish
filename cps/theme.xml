@@ -14,10 +14,6 @@
     </text>
     <text name="sys_line2" extra="true">
       <text>CPS</text>
-      <fontSize>0.18</fontSize>
-      <origin>0 0</origin>
-      <pos>0.12 0.130</pos>
-      <size>0 0</size>
     </text>
     <text name="shortdescription" extra="true">
       <text>1988 - 1996 · Placas arcade 16/32-bit</text>
