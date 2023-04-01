@@ -1,17 +1,5 @@
 Medidas 530x400 px
 
-cdtv.png
-chailove.png
-channelf.png
-epic.png
-gx4000.png
-j2me.png
-lutris.png
-lutro.png
-macintosh.png
-moonlight.png
-moto.png
-multivision.png
 odyssey2.png
 openbor.png
 oric.png
