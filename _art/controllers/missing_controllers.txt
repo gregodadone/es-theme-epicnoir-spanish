@@ -1,18 +1,6 @@
 Medidas 530x400 px
 
-odyssey2.png
-openbor.png
-oric.png
-palm.png
-pc88.png
-pcfx.png
-pokemini.png
-ps4.png
-psvita.png
 retroarch.png
-samcoupe.png
-solarus.png
-spectravideo.png
 stratagus.png
 sufami.png
 symbian.png
