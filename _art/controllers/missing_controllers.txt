@@ -1,16 +1,8 @@
+Medidas 530x400 px
 
-ags.png
-amiga600.png
-android.png
-astrocde.png
-atarixe.png
-bbcmicro.png
-cavestory.png
-cdimono1.png
 cdtv.png
 chailove.png
 channelf.png
-doom.png
 epic.png
 gx4000.png
 j2me.png
