@@ -1,0 +1,25 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Amiga</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Amiga</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1985 · Computadora 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>El modelo original era parte de la ola de computadoras de 16 y 32 bit que tenían 256KB o más de RAM, interfaces con mouse y gráficos y audio mejorados</text>
+    </text>
+  </view>
+</theme>

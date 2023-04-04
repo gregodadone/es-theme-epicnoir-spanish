@@ -1,0 +1,25 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Amiga CDTV</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Amiga CDTV</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1991 · Computadora 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Era esencialmente una Amiga 500 pero transformada en dispositivo multimedia con lector de CD-ROM y control remoto. Tuvo algunos juegos exclusivos.</text>
+    </text>
+  </view>
+</theme>

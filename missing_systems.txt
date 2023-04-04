@@ -1,0 +1,77 @@
+abuse: Abuse Port
+adam: Coleco Adam
+advision: Entex Adventure Vision
+apfm1000: APF M1000
+arcadia: Emerson Arcadia 2001
+archimedes: Acorn Computers Archimedes
+arduboy: Arduboy
+atom: Acorn Atom
+build: 3D Realms Build Engine
+camplynx: Camputers Lynx
+cannonball: Cannonball Port
+chip-8: Chip-8
+cplus4: Commodore Plus/4
+crvision: VTech CreatiVision
+devilutionx: Diablo 1 Port
+eduke32: EDuke32 Port
+electron: Acorn Electron
+ep64-128: Enterprise 64/128
+flash: Adobe Flash Player
+flatpak: Flatpak
+fm7: Fujitsu FM-7
+fmtowns: Fujitsu FM Towns
+fpinball: Future Pinball
+fury: Ion Fury
+gamate: Bit Corp Gamate
+gamecom: Tiger Electronics Game.com
+gameking: TimeTop GameKing
+gamemaster: Hartung Game Master
+gamepock: Epoch Game Pocket Computer
+gamepocketcomputer: Epoch Game Pocket Computer
+gb2players: Nintendo Game Boy (2 Players)
+gbc2players: Nintendo Game Boy Color (2 Players)
+gmaster: Hartung Game Master
+gp32: GamePark GP32
+homebrew: Homebrew Games
+ikemen: Elecbyte Ikemen
+laser310: VTech Laser 310
+lcdgames: LCD Games Tipo
+library: Multimedia Files
+lowresnx: LowRes NX
+mrboom: MRBoom Port
+msu-md: Sega MSU-MD
+msx2+: MSX 2+
+mugen: Mugen Engine
+naomi2: Sega NAOMI 2
+odcommander: OD Commander
+pdp1: Digital Equipment Corporation PDP-1
+pet: Commodore PET
+piece: Aquaplus P/ECE
+plugnplay: Plug and Play TV Games
+prboom: Doom Port
+pv1000: Casio PV-1000
+pygame: Pygame
+raze: Raze Engine
+scv: Epoch Super Cassette Vision
+sdlpop: Prince of Persia Port
+sgb: Super Game Boy
+socrates: VTech Socrates
+sonicretro: Sonic Retro Engine
+superbroswar: Super Mario War
+supracan: Funtech Entertainment Super A'Can
+triforce: Namco, Sega, Nintendo Triforce
+tutor: Tomy Tutor
+tvc: Videoton TV-Computer
+tyrquake: Quake Port
+vc4000: Interton Video Computer 4000
+vgmplay: VGM Player
+videopacplus: Philips Videopac+ G7400
+vitaquake2: Quake II Vita Port
+vsmile: VTech V.Smile
+wasm4: WASM-4
+windows: Microsoft Windows
+windows_installers: Microsoft Windows
+xash3d_fwgs: Xash3D-FWGS Engine
+xegs: Atari XE Game System
+xrick: Rick Dangerous Port
+zc210: Zelda Classic

@@ -1,0 +1,25 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>COMMODORE VIC-20</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>VIC-20</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1980 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Fue la primera computadora en vender más de un millón de unidades. Es la predecesora de la Commodore 64, la más vendida de la historia</text>
+    </text>
+  </view>
+</theme>
