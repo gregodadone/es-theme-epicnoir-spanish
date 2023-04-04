@@ -1,0 +1,23 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Camputers Lynx</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Camputers Lynx</text>
+      <pos>0.12 0.130</pos>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1983 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>El Lynx fue un ordenador doméstico británico de 8 bits lanzado a principios de 1983 por la compañía Camputers y diseñado por John Shireff. Se lanzaron en total tres modelos</text>
+    </text>
+  </view>
+</theme>

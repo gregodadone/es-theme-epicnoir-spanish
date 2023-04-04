@@ -1,0 +1,23 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Chip-8</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Chip-8</text>
+      <pos>0.12 0.130</pos>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1970 · Máquina Virtual</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Fue inicialmente usado en microcomputadores a mediados de 1970. Los programas de CHIP-8 corren sobre una máquina virtual de CHIP-8 para que los juegos fueran más fáciles de programar en otros computadores</text>
+    </text>
+  </view>
+</theme>

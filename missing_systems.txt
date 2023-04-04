@@ -1,19 +1,19 @@
-abuse: Abuse Port
-adam: Coleco Adam
-advision: Entex Adventure Vision
-apfm1000: APF M1000
-arcadia: Emerson Arcadia 2001
-archimedes: Acorn Computers Archimedes
-arduboy: Arduboy
-atom: Acorn Atom
-build: 3D Realms Build Engine
-camplynx: Camputers Lynx
-cannonball: Cannonball Port
-chip-8: Chip-8
-cplus4: Commodore Plus/4
-crvision: VTech CreatiVision
-devilutionx: Diablo 1 Port
-eduke32: EDuke32 Port
+abuse: Abuse: 2014 · Juego portado: Port del clásico juego Abuse a Simple DirectMedia Layer. Originalmente desarrollado por Crack.com y lanzado en 1995 para MS-DOS
+adam: Coleco Adam: 1983 · Computadora 8-bit: Fue un intento de seguir con el éxito de la ColecoVision. No tuvo mucho éxito, en parte debido a problemas de fabricación, y fue descatalogado en 1985
+advision: Entex Adventure Vision: 1983 · Consola 8-bit: Adventure Vision es una consola de videojuegos autocontenida (no necesita de un monitor externo) lanzado al mercado por la empresa Entex en 1982
+apfm1000: APF M1000: 1978 · Consola 8-bit: El APF Microcomputer System1 es una consola de videojuegos de 8 bits basada en cartuchos de segunda generación lanzada en 1978 por APF Electronics Inc con seis cartuchos
+arcadia: Emerson Arcadia 2001: 1982 · Consola 8-bit: El Arcadia es mucho más pequeño que sus competidores contemporáneos y está alimentado por una fuente de alimentación de 12 voltios, por lo que puede usarse dentro de un vehículo
+archimedes: Acorn Archimedes: 1996 · Computadora 32-bit: Fue el primer ordenador de Acorn Computers basado en su propia CPU RISC ARM de 32 bits. El nombre también es usado para describir ordenadores basados en la misma arquitectura
+arduboy: Arduboy: 2015 · Consola Portatil: Arduboy es una consola de juegos portátil con software de código abierto, basada en la plataforma Arduino. El desarrollo se financió mediante una campaña de Kickstarter en 2015
+atom: Acorn Atom: 1981 · Computadora 8-bit: Tenía un chip de video Motorola 6847, permitiendo modos de texto o gráficos de dos colores. Podía ser conectado con un televisor o ser modificado para una salida a un monitor de video
+build: 3D Realms Build Engine: 1995 · Motor de juegos: Build es un motor para videojuegos de disparos en primera persona creado por Ken Silverman para 3D Realms. Al igual que en Doom, el motor Build representa su mundo en una malla bidimensional
+camplynx: Camputers Lynx: 1983 · Computadora 8-bit: El Lynx fue un ordenador doméstico británico de 8 bits lanzado a principios de 1983 por la compañía Camputers y diseñado por John Shireff. Se lanzaron en total tres modelos
+cannonball: Cannonball: 2014 · Motor de juegos: Motor de juegos para la versión arcade del juego OutRun
+chip-8: Chip-8: 1970 · Máquina Virtual: Fue inicialmente usado en microcomputadores a mediados de 1970. Los programas de CHIP-8 corren sobre una máquina virtual de CHIP-8 para que los juegos fueran más fáciles de programar en otros computadores
+cplus4: Commodore Plus/4: 1984 · Computadora 8-bit: El nombre Plus/4 hace referencia al paquete de oficina residente en la memoria ROM compuesto por procesador de textos, hoja de cálculo, bases de datos, y gráficos
+crvision: VTech CreatiVision: 1982 · Consola 8-bit: La Video Technology CreatiVision es un híbrido entre consola y computadora. Como medio de almacenamiento usaba cassetes de audio
+devilutionx: DevilutionX: 2019 · Motor de juegos: DevilutionX es un moton de juegos para Diablo 1 y Hellfire pensado para hacer sencilla la ejecución del juego, corrigiendo bugs y mejorando la calidad
+eduke32: EDuke32: 2004 · Juego portado: Motor de juegos open source para Duke Nukem 3D pensado para correr tanto el juego original como mods hechos por fans
 electron: Acorn Electron
 ep64-128: Enterprise 64/128
 flash: Adobe Flash Player
@@ -22,8 +22,8 @@ fm7: Fujitsu FM-7
 fmtowns: Fujitsu FM Towns
 fpinball: Future Pinball
 fury: Ion Fury
-gamate: Bit Corp Gamate
-gamecom: Tiger Electronics Game.com
+gamate: Bit Corp Gamate: 1990 · Consola Portatil 8-bit: Consola portatil vendida principalmente en paises asiáticos durante el boom de la Game Boy 
+gamecom: Tiger Electronics Game.com: 
 gameking: TimeTop GameKing
 gamemaster: Hartung Game Master
 gamepock: Epoch Game Pocket Computer

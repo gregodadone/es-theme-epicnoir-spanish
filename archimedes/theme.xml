@@ -1,0 +1,23 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Acorn Archimedes</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Acorn Archimedes</text>
+      <pos>0.12 0.130</pos>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1996 · Computadora 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Fue el primer ordenador de Acorn Computers basado en su propia CPU RISC ARM de 32 bits. El nombre también es usado para describir ordenadores basados en la misma arquitectura</text>
+    </text>
+  </view>
+</theme>

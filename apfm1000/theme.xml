@@ -1,0 +1,23 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>APF M1000</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>APF M1000</text>
+      <pos>0.12 0.130</pos>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1978 · Consola 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>El APF Microcomputer System1 es una consola de videojuegos de 8 bits basada en cartuchos de segunda generación lanzada en 1978 por APF Electronics Inc con seis cartuchos</text>
+    </text>
+  </view>
+</theme>
