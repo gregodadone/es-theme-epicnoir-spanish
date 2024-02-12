@@ -14,10 +14,10 @@
       <pos>0.12 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
-      <text></text>
+      <text>2019 · Juego Portado</text>
     </text>
     <text name="longdescription" extra="true">
-      <text></text>
+      <text>Programado sobre Eduke32. Una experta desactivadora de bombas debe pelear contra un ejército de cyborgs en la distópica Neo D.C.</text>
     </text>
   </view>
 </theme>

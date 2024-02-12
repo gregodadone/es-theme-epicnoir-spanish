@@ -13,19 +13,19 @@ chip-8: Chip-8: 1970 · Máquina Virtual: Fue inicialmente usado en microcomputa
 cplus4: Commodore Plus/4: 1984 · Computadora 8-bit: El nombre Plus/4 hace referencia al paquete de oficina residente en la memoria ROM compuesto por procesador de textos, hoja de cálculo, bases de datos, y gráficos
 crvision: VTech CreatiVision: 1982 · Consola 8-bit: La Video Technology CreatiVision es un híbrido entre consola y computadora. Como medio de almacenamiento usaba cassetes de audio
 devilutionx: DevilutionX: 2019 · Motor de juegos: DevilutionX es un moton de juegos para Diablo 1 y Hellfire pensado para hacer sencilla la ejecución del juego, corrigiendo bugs y mejorando la calidad
-eduke32: EDuke32: 2004 · Juego portado: Motor de juegos open source para Duke Nukem 3D pensado para correr tanto el juego original como mods hechos por fans
-electron: Acorn Electron
-ep64-128: Enterprise 64/128
-flash: Adobe Flash Player
-flatpak: Flatpak
-fm7: Fujitsu FM-7
-fmtowns: Fujitsu FM Towns
-fpinball: Future Pinball
-fury: Ion Fury
+eduke32: EDuke32: 2004 · Motor de juegos: Motor de juegos open source para Duke Nukem 3D pensado para correr tanto el juego original como mods hechos por fans
+electron: Acorn Electron: 1983 · Computadora 8-bit: Fue un diseñado y comercializado como una versión barata del BBC Micro (Acorn Proton), pues el alto precio de estos era un problema para su expansión
+ep64-128: Enterprise 64/128: 1985 · Computadora 8-bit: Fue pensado para destruir a la competencia de la época pero un retraso en su comercialización provocó su fracaso
+flash: Adobe Flash Player: 1996 · Plataforma: Aplicación pionera en permitir la repreducción de contenido multimedia en páginas web. Muchos juegos han sido desarrollados para esta plataforma ya muerta
+flatpak: Flatpak: 2007 · Máquina Virtual: Utilidad para gestión de paquetes universales y gestión de contenedores en Linux
+fm7: Fujitsu FM-7: 1982 · Computadora 8-bit: A pesar de ser una versión reducida de la FM-8, incluía un chip de sonido más potente haciéndola popular entre los entusiastas de la tecnología
+fmtowns: Fujitsu FM Towns: 1989 · Computadora 32-bit: Aunque esta computadora usaba Windows, tenía juegos exclusivos gracias a una API especial para manejar distintos modos gráficos. Venía incluida con un gamepad
+fpinball: Future Pinball: 2005 · Motor de juegos: Simulador pensado para emular hardware real encontrado en máquinas pinball o flippers
+fury: Ion Fury: 2019 · Juego Portado: Programado sobre Eduke32. Una experta desactivadora de bombas debe pelear contra un ejército de cyborgs en la distópica Neo D.C.
 gamate: Bit Corp Gamate: 1990 · Consola Portatil 8-bit: Consola portatil vendida principalmente en paises asiáticos durante el boom de la Game Boy 
-gamecom: Tiger Electronics Game.com: 
-gameking: TimeTop GameKing
-gamemaster: Hartung Game Master
+gamecom: Tiger Electronics Game.com: 1997 · Consola Portatil 8-bit: Competidora de la Game Boy. Fue la primera consola portatil en tener pantalla táctil y conexión a Internet
+gameking: TimeTop GameKing: 2004 · Consola Portatil 8-bit: Consola barata que imitaba en apariencia a la Game Boy Advance y a la PlayStation Portable. Los juegos se mostraban en 4 tonos de grises
+gamemaster: Hartung Game Master: 1990 · Consola Portatil 8-bit: Fue diseñada para competir con la Game Boy, aunque sólo 19 juegos fueron lanzados para esta consola
 gamepock: Epoch Game Pocket Computer
 gamepocketcomputer: Epoch Game Pocket Computer
 gb2players: Nintendo Game Boy (2 Players)

@@ -14,10 +14,10 @@
       <pos>0.12 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
-      <text></text>
+      <text>1989 · Computadora 32-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text></text>
+      <text>Aunque esta computadora usaba Windows, tenía juegos exclusivos gracias a una API especial para manejar distintos modos gráficos. Venía incluida con un gamepad</text>
     </text>
   </view>
 </theme>

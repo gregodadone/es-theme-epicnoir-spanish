@@ -14,10 +14,10 @@
       <pos>0.12 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
-      <text></text>
+      <text>2005 · Motor de juegos</text>
     </text>
     <text name="longdescription" extra="true">
-      <text></text>
+      <text>Simulador pensado para emular hardware real encontrado en máquinas pinball o flippers</text>
     </text>
   </view>
 </theme>

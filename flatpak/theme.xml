@@ -14,10 +14,10 @@
       <pos>0.12 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
-      <text></text>
+      <text>2007 · Máquina Virtual</text>
     </text>
     <text name="longdescription" extra="true">
-      <text></text>
+      <text>Utilidad para gestión de paquetes universales y gestión de contenedores en Linux</text>
     </text>
   </view>
 </theme>
